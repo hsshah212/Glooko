@@ -1,2 +1,2 @@
 # Glooko
-Coding challenge Android
+Coding challenge Android is awesome
